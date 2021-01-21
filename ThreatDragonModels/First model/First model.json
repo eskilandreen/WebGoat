@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "First model",
+    "owner": "Eskil",
+    "description": "Its WebGoat"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Eskil"
+  }
+}

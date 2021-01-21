@@ -5,8 +5,18 @@
     "description": "Its WebGoat"
   },
   "detail": {
-    "contributors": [],
-    "diagrams": [],
+    "contributors": [
+      {
+        "name": "Eskil"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "My diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "Eskil"
   }
 }
